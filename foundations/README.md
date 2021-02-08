@@ -13,3 +13,5 @@ Motivation :  Deep Learning is making news across the world as one of the most p
 In this notebook, we will do image classification and retrieval tasks,then constructing deep features, a transfer learning technique that will allow us to use deep learning very easily, even when you have little data to train the model.
 
 Overall, we will build an image classifier and an intelligent image retrieval system with deep learning.
+## (f) Amazon product data
+We will show some text analysis and also build a model to get better accuracy.
