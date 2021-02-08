@@ -10,6 +10,8 @@ In this repository, I will use Machine Learning algorithms to perform some proje
   - (d) building recommendation system
 
   - (e) Image Classifier
+  
+  - (f) Text Analysis ( amazon product review)
 
 
 
